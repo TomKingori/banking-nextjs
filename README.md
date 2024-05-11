@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a banking app a with finance management dashboard that connects multiple bank accounts, displays real-time transactions, and allows you to transfer money to other users.
 
 ## Getting Started
 
